@@ -41,3 +41,8 @@
 - **Status:** In progress
 - **Notes:** Updated `projects/express-agent-sprint/NOTES_laptop.md` with today’s follow-ups (Slack webhook doc verified; outlined miniflare test + payload spec to-do).
 
+- **Time:** 2026-03-04 14:55 AEDT
+- **Task:** Monetization report polish
+- **Status:** In progress
+- **Notes:** Added priority recommendations + execution steps to `projects/monetization-report/monetization_opportunities.md` (focus on offers #1, #3, #7).
+
