@@ -61,3 +61,8 @@
 - **Status:** Delivered
 - **Notes:** `poetry run python -m app.cli status` confirms paper/test modes ON, default exchange binance, risk params loaded. Entry-point script requires package metadata, so we run via module for now.
 
+- **Time:** 2026-03-04 19:45 AEDT
+- **Task:** Trading bot live-paper test
+- **Status:** In progress
+- **Notes:** Ran `poetry run python -m app.cli run --style swing|intraday|scalping --interval 5` sequentialmente. Cada estilo completó varios ciclos en paper mode; scalping generó una orden short (paper) con `vwap_reversion_scalp` (~0.0007 BTC). Logs en `projects/.../logs/trading.log`. CLI arroja aviso `fatal: bad revision 'HEAD'` al intentar leer el commit; inofensivo.
+
