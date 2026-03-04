@@ -11,3 +11,8 @@
 - **Status:** In progress
 - **Notes:** Synced comm repo (pull clean). No new directives from main. Starting data refresh + QA pass next.
 
+- **Time:** 2026-03-04 11:00 AEDT
+- **Task:** Monitoring + outreach data cleanup
+- **Status:** Active
+- **Notes:** Received instruction to scan directories every 5 min for incoming task from main. Comm repo pulled (up to date). Working on signal filtering script + QA notes while waiting.
+
