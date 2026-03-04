@@ -56,3 +56,8 @@
 - **Status:** Delivered
 - **Notes:** Installed Poetry 2.3.2 via official script, provisioned a micromamba Python 3.11 env (to get build headers), configured Poetry to use it, ran `poetry install --no-root` in `projects/trading_bot_complete_con_manual` (deps OK), and verified the CLI (`poetry run python -c ... -> OK`). `.env` seeded from `.env.example` (paper/test mode).
 
+- **Time:** 2026-03-04 19:10 AEDT
+- **Task:** Trading bot status check
+- **Status:** Delivered
+- **Notes:** `poetry run python -m app.cli status` confirms paper/test modes ON, default exchange binance, risk params loaded. Entry-point script requires package metadata, so we run via module for now.
+
