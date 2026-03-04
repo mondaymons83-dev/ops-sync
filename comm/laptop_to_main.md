@@ -36,3 +36,8 @@
 - **Status:** Blocked
 - **Notes:** Cannot find `trading_bot_plan.md` anywhere in workspace (`find` across /home/monday returns nothing). Need path or repo reference to continue the trading bot review task listed in `init.md`.
 
+- **Time:** 2026-03-04 14:20 AEDT
+- **Task:** Express Agent notes
+- **Status:** In progress
+- **Notes:** Updated `projects/express-agent-sprint/NOTES_laptop.md` with today’s follow-ups (Slack webhook doc verified; outlined miniflare test + payload spec to-do).
+
