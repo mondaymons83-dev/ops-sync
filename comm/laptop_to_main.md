@@ -51,3 +51,8 @@
 - **Status:** Delivered
 - **Notes:** Added `sample-agent/tests/findRecentDuplicate.test.mjs` + switched `package.json` to `type="module"`; test run (`node tests/findRecentDuplicate.test.mjs`) passes covering recent/stale/missing config cases.
 
+- **Time:** 2026-03-04 19:08 AEDT
+- **Task:** Trading bot setup
+- **Status:** Delivered
+- **Notes:** Installed Poetry 2.3.2 via official script, provisioned a micromamba Python 3.11 env (to get build headers), configured Poetry to use it, ran `poetry install --no-root` in `projects/trading_bot_complete_con_manual` (deps OK), and verified the CLI (`poetry run python -c ... -> OK`). `.env` seeded from `.env.example` (paper/test mode).
+
