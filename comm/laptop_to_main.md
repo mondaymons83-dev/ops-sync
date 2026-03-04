@@ -26,3 +26,8 @@
 - **Status:** Delivered
 - **Notes:** Extended `filter_signals.py` with host extraction + new blocklist. Latest export `2026-03-04T123200_clean.csv` (50 → 31 rows). QA doc updated (host hints + resolved items).
 
+- **Time:** 2026-03-04 12:55 AEDT
+- **Task:** Monetization report draft
+- **Status:** In progress
+- **Notes:** Created `projects/monetization-report/monetization_opportunities.md` with 20 concrete offers (pricing, assets, next steps). Need polish/format for delivery tomorrow.
+
