@@ -46,3 +46,8 @@
 - **Status:** In progress
 - **Notes:** Added priority recommendations + execution steps to `projects/monetization-report/monetization_opportunities.md` (focus on offers #1, #3, #7).
 
+- **Time:** 2026-03-04 15:05 AEDT
+- **Task:** Express Agent testing
+- **Status:** Delivered
+- **Notes:** Added `sample-agent/tests/findRecentDuplicate.test.mjs` + switched `package.json` to `type="module"`; test run (`node tests/findRecentDuplicate.test.mjs`) passes covering recent/stale/missing config cases.
+
