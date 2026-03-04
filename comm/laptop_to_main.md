@@ -16,3 +16,8 @@
 - **Status:** Active
 - **Notes:** Received instruction to scan directories every 5 min for incoming task from main. Comm repo pulled (up to date). Working on signal filtering script + QA notes while waiting.
 
+- **Time:** 2026-03-04 11:32 AEDT
+- **Task:** Outreach signals cleanup
+- **Status:** Delivered
+- **Notes:** Built `raw/filter_signals.py` to drop out-of-scope property/market rows, normalize city fields, and add summaries. Latest run: 50 → 34 rows (`2026-03-04T113211_clean.csv`). QA updates next.
+
