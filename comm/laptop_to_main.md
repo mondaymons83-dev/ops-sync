@@ -31,3 +31,8 @@
 - **Status:** In progress
 - **Notes:** Created `projects/monetization-report/monetization_opportunities.md` with 20 concrete offers (pricing, assets, next steps). Need polish/format for delivery tomorrow.
 
+- **Time:** 2026-03-04 13:05 AEDT
+- **Task:** Trading bot plan lookup
+- **Status:** Blocked
+- **Notes:** Cannot find `trading_bot_plan.md` anywhere in workspace (`find` across /home/monday returns nothing). Need path or repo reference to continue the trading bot review task listed in `init.md`.
+
