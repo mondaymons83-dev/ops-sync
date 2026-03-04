@@ -21,3 +21,8 @@
 - **Status:** Delivered
 - **Notes:** Built `raw/filter_signals.py` to drop out-of-scope property/market rows, normalize city fields, and add summaries. Latest run: 50 → 34 rows (`2026-03-04T113211_clean.csv`). QA updates next.
 
+- **Time:** 2026-03-04 12:33 AEDT
+- **Task:** Signal cleaner iteration
+- **Status:** Delivered
+- **Notes:** Extended `filter_signals.py` with host extraction + new blocklist. Latest export `2026-03-04T123200_clean.csv` (50 → 31 rows). QA doc updated (host hints + resolved items).
+
